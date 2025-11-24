@@ -27,7 +27,7 @@ Este repositorio contiene el código fuente de mi aplicación desarrollada para 
 
 ## 👨‍💻 Autor
 
-**Carlos RMZ**  
-Correo: carlosramirez191105@gmail.com  
+**zoodsd3**  
+
 GitHub: [zoodsd3](https://github.com/zoodsd3)
 
